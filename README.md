@@ -8,3 +8,5 @@ The dataset was analysed to answer the following questions:
 3) Does higher GDP per capita translate to higher CO2 emission per capita?
 
 4) In females which cancer is more prevalent now?
+
+For the project mainly Pandas and matplotlib library were used.
